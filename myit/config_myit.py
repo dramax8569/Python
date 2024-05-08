@@ -1,0 +1,2 @@
+USER_MYIT_1 = "46085398"
+PASS_MYIT_1 = "wiG9^B3/m5"

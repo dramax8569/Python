@@ -1,0 +1,5 @@
+USER_AMAZON_1 = "573006503043"
+PASS_AMAZON_1 = "5x&W3Y"
+
+USER_AMAZON_2 = "chrejempleo3@gmail.com"
+PASS_AMAZON_2 = "5x&W3Y"
